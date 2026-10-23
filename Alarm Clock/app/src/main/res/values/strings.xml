@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AuraRise</string>
+    <string name="widget_name">AuraRise Status</string>
+    <string name="widget_next_alarm">Next Alarm</string>
+    <string name="widget_no_alarm">No Active Alarm</string>
+    <string name="widget_sleep_score">Sleep Score</string>
+    <string name="widget_quick_nap">Power Nap</string>
+    <string name="sunrise_alarm_channel">Sunrise Ambient Alarm</string>
+    <string name="sunrise_alarm_desc">Gradual ambient light and sound wake up notifications</string>
+</resources>

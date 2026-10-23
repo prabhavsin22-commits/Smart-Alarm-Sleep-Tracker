@@ -1,0 +1,6 @@
+{
+  "name": "AuraRise: Smart Ambient Alarm",
+  "description": "Smart ambient light and sound alarm clock with sleep cycle sync, power naps, morning alertness challenges, night heart rate analytics, and custom nature soundscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
